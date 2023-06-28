@@ -48,7 +48,7 @@ td {
 .circle {
 	height: 25px;
 	width: 25px;
-	background-color: #7d5fff;
+	background-color:  rgb(81, 255, 255);
 	border-radius: 50%;
 	display: inline-block;
 	margin: 0 auto;
@@ -60,5 +60,5 @@ td {
 }
 
 .active {
-	background-color: rgb(81, 255, 255);
+	background-color: rgb(255, 67, 67);
 }
