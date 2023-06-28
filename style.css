@@ -62,3 +62,10 @@ td {
 .active {
 	background-color: rgb(255, 67, 67);
 }
+
+@media only screen and (max-width: 600px) {
+	.main-box {
+		width: 90%;
+		height: 400px;
+	}
+}
